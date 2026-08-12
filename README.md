@@ -40,3 +40,8 @@ See Meta Engineering post: [Building Private Processing for AI tools on WhatsApp
 
 **Repo purpose in OrgSuite**  
 This clone supports documentation, privacy review, and cross-device reference (Samsung Android + Apple) for AI features that respect end-to-end encryption guarantees.
+
+---
+
+### Next steps (Samsung-friendly path)
+If you want this repo made private, added to an existing OrgSuite monorepo, turned into a gist instead, or synced to Linear / Make.com / your habit tracking, just say the word and I’ll handle the next step on the Samsung-friendly path.
